@@ -1,0 +1,38 @@
+.legend {
+  background-color: #ffb6c1;
+  border-radius: 10px;
+  bottom: 5px;
+  left: 5px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  font-size: 12px;
+  font-family: monospace;
+  font
+  padding-left: 5px;
+  position: absolute;
+  z-index: 1;
+}
+
+.legend h4 {
+  margin: 0 0 1px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.legend h3 {
+  margin: 0 0 1px;
+  padding-left: 5px;
+  font-style: oblique;
+  padding-right: 5px;
+}
+.legend p {
+  margin: 0 0 1px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+}
+.legend div span {
+  border-radius: 25%;
+  display: inline-block;
+  height: 5px;
+  margin-right: 5px;
+  width: 10px;
+}

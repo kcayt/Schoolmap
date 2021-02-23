@@ -1,0 +1,140 @@
+[
+  {
+    "District": 3,
+    "SchoolName": "THE ANDERSON SCHOOL",
+    "Latitude": 40.7818452,
+    "Longitude": -73.9779463
+  },
+  {
+    "District": 3,
+    "SchoolName": "SPECIAL MUSIC SCHOOL",
+    "Latitude": 40.77545012,
+    "Longitude": -73.98317876
+  },
+  {
+    "District": 2,
+    "SchoolName": "P.S. 77 LOWER LAB SCHOOL",
+    "Latitude": 40.78525668,
+    "Longitude": -73.9500636
+  },
+  {
+    "District": 1,
+    "SchoolName": "NEW EXPLORATIONS INTO SCIENCE, TECHNOLOGY AND MATH",
+    "Latitude": 40.72038483,
+    "Longitude": -73.97931017
+  },
+  {
+    "District": 4,
+    "SchoolName": "TAG YOUNG SCHOLARS",
+    "Latitude": 40.79265625,
+    "Longitude": -73.94173533
+  },
+  {
+    "District": 3,
+    "SchoolName": "P.S. 166 THE RICHARD RODGERS SCHOOL OF THE ARTS AN",
+    "Latitude": 40.78901295,
+    "Longitude": -73.97241229
+  },
+  {
+    "District": 28,
+    "SchoolName": "P.S. 196 GRAND CENTRAL PARKWAY",
+    "Latitude": 40.72316299,
+    "Longitude": -73.83770414
+  },
+  {
+    "District": 2,
+    "SchoolName": "THE RIVER SCHOOL",
+    "Latitude": 40.74454996,
+    "Longitude": -73.97230509
+  },
+  {
+    "District": 17,
+    "SchoolName": "P.S. 191 PAUL ROBESON",
+    "Latitude": 40.67204586,
+    "Longitude": -73.92377597
+  },
+  {
+    "District": 26,
+    "SchoolName": "P.S. 188 KINGSBURY",
+    "Latitude": 40.73634597,
+    "Longitude": -73.75329142
+  },
+  {
+    "District": 26,
+    "SchoolName": "P.S. 203 OAKLAND GARDENS",
+    "Latitude": 40.75373395,
+    "Longitude": -73.75995912
+  },
+  {
+    "District": 3,
+    "SchoolName": "P.S. 087 WILLIAM SHERMAN",
+    "Latitude": 40.78201321,
+    "Longitude": -73.97785989
+  },
+  {
+    "District": 3,
+    "SchoolName": "P.S. 199 JESSIE ISADOR STRAUS",
+    "Latitude": 40.77792044,
+    "Longitude": -73.98470432
+  },
+  {
+    "District": 20,
+    "SchoolName": "THE SCHOOL FOR FUTURE LEADERS",
+    "Latitude": 40.632375646681163,
+    "Longitude": -74.00760499524478
+  },
+  {
+    "District": 30,
+    "SchoolName": "THE 30TH AVENUE SCHOOL (G&T CITYWIDE)",
+    "Latitude": 40.76841346,
+    "Longitude": -73.92276433
+  },
+  {
+    "District": 15,
+    "SchoolName": "P.S. 039 HENRY BRISTOW",
+    "Latitude": 40.66882843,
+    "Longitude": -73.98289094
+  },
+  {
+    "District": 26,
+    "SchoolName": "P.S. 046 ALLEY POND",
+    "Latitude": 40.74557703,
+    "Longitude": -73.7578671
+  },
+  {
+    "District": 15,
+    "SchoolName": "P.S. 172 BEACON SCHOOL OF EXCELLENCE",
+    "Latitude": 40.65775639109731,
+    "Longitude": -74.00013185296476
+  },
+  {
+    "District": 20,
+    "SchoolName": "P.S. 229 DYKER",
+    "Latitude": 40.61065016,
+    "Longitude": -74.01351282
+  },
+  {
+    "District": 2,
+    "SchoolName": "P.S. 006 LILLIE D. BLAKE",
+    "Latitude": 40.77776535,
+    "Longitude": -73.9605501
+  },
+  {
+    "District": 2,
+    "SchoolName": "P.S. 124 YUNG WING",
+    "Latitude": 40.71448352,
+    "Longitude": -73.99577756
+  },
+  {
+    "District": 2,
+    "SchoolName": "P.S. 527 - EAST SIDE SCHOOL FOR SOCIAL ACTION",
+    "Latitude": 40.78076638,
+    "Longitude": -73.94797569
+  },
+  {
+    "District": 21,
+    "SchoolName": "P.S. 253",
+    "Latitude": 40.58146447,
+    "Longitude": -73.96220447
+  }
+]
